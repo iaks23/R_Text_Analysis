@@ -12,6 +12,26 @@
 * [Text Analysis](#analysis)
 * [Pre-Requisites](#requisites)
 
+# 📂 The Dataset <a name='dataset'></a>
+
+### What is your biggest regret? 
+
+The idea for this project sprung from a popular [YouTube video](https://www.youtube.com/watch?v=N8i6rUL4UIY) by Glamour. People between the ages of 5 and 75 were asked a question about their biggest regret. 
+
+![Screenshot]()
+
+In order to convert the video into a workable dataset, I transcribed the responses provided by the individuals into an Excel sheet, which was then exported as a CSV file. 
+
+The resulting CSV file contained 3 columns, age, gender, and the response and 75 rows. 
+
+|Age|Regret|Gender|
+|---|---|---|
+|5|"I went to the play ground and I want to go again today"|F|
+
+
+
+
+
 
 
 

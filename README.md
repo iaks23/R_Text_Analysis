@@ -18,7 +18,7 @@
 
 The idea for this project sprung from a popular [YouTube video](https://www.youtube.com/watch?v=N8i6rUL4UIY) by Glamour. People between the ages of 5 and 75 were asked a question about their biggest regret. 
 
-![Screenshot]()
+![Screenshot](https://github.com/iaks23/R_Text_Analysis/blob/main/images/screenshot.png)
 
 In order to convert the video into a workable dataset, I transcribed the responses provided by the individuals into an Excel sheet, which was then exported as a CSV file. 
 

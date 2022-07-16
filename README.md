@@ -1,10 +1,10 @@
-# R Text Analysis 📑
-
-> Text Analysis performed on a custom dataset using RStudio. 
-
 [![star-useful](https://img.shields.io/badge/🌟-If%20useful-red.svg)](https://shields.io) 
 [![view-repo](https://img.shields.io/badge/View-Repo-blueviolet)](https://github.com/iaks23?tab=repositories)
 [![view-profile](https://img.shields.io/badge/Go%20To-Profile-orange)](https://github.com/iaks23) 
+
+# R Text Analysis 📑
+
+> Text Analysis performed on a custom dataset using RStudio. 
 
 ## Table of Contents 🕹
 

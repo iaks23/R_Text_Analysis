@@ -41,7 +41,7 @@ The entire code is done using R and [RStudio](https://www.rstudio.com). More det
 
 For the prupose of this project and due to the limited amount of data available, I have performed text analysis on the entire dataset. Depedning on the size, type, and genre of dataset at hand text analysis can be performed by splitting the data into personalized categories (eg: age groups, gender, genre etc.) 
 
-The final results produced include a wordcloud of the most frequently appearing terms in the term document matrix as well as a sentiment analysis graphh which shows the percentage of occurence of the 8 most common emotions. 
+The final results produced include a [wordcloud](https://github.com/iaks23/R_Text_Analysis/blob/main/Results/word_cloud.jpeg) of the most frequently appearing terms in the term document matrix as well as a [sentiment](https://github.com/iaks23/R_Text_Analysis/blob/main/Results/sentiment.jpeg) analysis graph which shows the percentage of occurence of the 8 most common emotions. 
 
 To read more details about NLP/ Text Analysis in R, please refer the article [here](https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/text-mining-and-sentiment-analysis-with-r/)
 

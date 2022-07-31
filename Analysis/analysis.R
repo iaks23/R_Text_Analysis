@@ -57,7 +57,7 @@ TextDoc <- tm_map(TextDoc, removePunctuation)
 #Eliminate extra white spaces
 TextDoc <- tm_map(TextDoc, stripWhitespace)
 
-TextDoc <- tm_map(TextDoc, removeWords, c("that","the","and","not","when","was","with"))
+TextDoc <- tm_map(TextDoc, removeWords, c("that","the","and","not","when","was","with","for","regrets","regret"))
 
 
 #Building the term-document matric
@@ -75,7 +75,7 @@ head(dtm_d, 10)
 set.seed(1234)
 wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 1,
           max.words=100, random.order=FALSE, rot.per=0.40, 
-          colors=brewer.pal(8, "Dark2"))
+          colors=brewer.pal(8, "BuPu"))
 
 
 
